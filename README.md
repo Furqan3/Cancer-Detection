@@ -1,4 +1,4 @@
-# Skin Lesion Classification using Image Processing and Machine Learning
+# Skin Lesion Classification using Image Processing
 This project aims to classify skin lesions into two categories: normal and melanoma. The classification is based on four features extracted from images of skin lesions using image processing techniques. The four features are asymmetry, border, color, and diameter.
 
 ### Features
